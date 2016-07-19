@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Skip, Play, Love",
+  "description": "This extension allows you to skip, play/stop and love tunes on Soundcloud from anywhere in the browser",
+    "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}

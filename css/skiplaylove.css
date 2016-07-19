@@ -1,0 +1,14 @@
+.controls{
+  color: #f50;
+/*  min-height: 100%;
+  min-width: 100%;*/
+}
+.controls-container{
+  min-height: 50px;
+  min-width: 300px;
+  background: #111;
+}
+body{
+  background: #111;
+  margin: 0px;
+}
